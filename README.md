@@ -6,4 +6,4 @@ Most of my public work centers on eliminating execution failure modes in agents�
 
 Outside of open systems, I engineer and maintain the production diagnostic operating platform for an enterprise clinical laboratory.
 
-[X](https://x.com/utk0x) (@utk0x) · [Email](mailto:utkarshchandra170@gmail.com) (utkarshchandra170 [at] gmail)
+[X](https://x.com/utk0x) @utk0x · [Email](mailto:utkarshchandra170@gmail.com) utkarshchandra170 [at] gmail [dot] com
